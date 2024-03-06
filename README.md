@@ -141,7 +141,7 @@ b. Upload the Free Surfer License to the project level
 ![uploadlicense](imgs/uploadlicense.jpg)
 
 c. Run the BIDS fMRIPrep Gear at the **subject level**
-- Needs to be run individually for each subject
+- Needs to be run **individually** for each subject
 - Sessions &rarr; Select desired subject on the left (002 in the example below) &rarr; Analyses &rarr; Press "Run Analyses Gear" on the right
 
 ![runbidsfmriprep](imgs/runbidsfmriprep.jpg)
