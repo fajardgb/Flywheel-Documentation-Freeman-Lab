@@ -118,7 +118,7 @@ b. Check to make sure everything ran correctly
     - Analyses &rarr; curate-bids gear &rarr; Results &rarr; 3 dots on the right &rarr; Download **..._niftis.csv**
   
 ![tempstep2b](imgs/tempstep2b(2).jpg)
-- The Curated BIDS path column in the ..._niftis.csv should have the right BIDS strucutre (anat, func, file names, etc...)
+- The **Curated BIDS path** column in the ..._niftis.csv should have the right BIDS strucutre (anat, func, file names, etc...)
 
 ![curatedbidspath](imgs/curatedbidspath.jpg)
 
