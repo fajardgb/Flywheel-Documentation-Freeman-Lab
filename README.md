@@ -12,7 +12,7 @@ a. Check to make sure that dicom classifier & dcm2niix ran properly
 
 ![step2a](imgs/step2a.jpg)
 
-b. If there is pilot data, ignore it:
+b. If there is pilot data, ignore it (or delete it...):
 
 - Sessions &rarr; Select Sub on left &rarr; Session &rarr; Custom Information &rarr; BIDS &rarr; ignore &rarr; Save
 ![step2b](imgs/step2b.jpg)
