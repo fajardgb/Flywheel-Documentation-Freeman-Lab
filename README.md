@@ -72,10 +72,16 @@ c. You **ONLY** need to edit the **acquisition_labels....csv**:
 - Eg: t1_mprage_sag_p2_1mm_iso &rarr; anat_T1w
 - Eg: func_phase1 &rarr; func-bold_task-faces_run-01
 
-d. Upload the 3 csvs to the the project level
+d. Change the session_labels CSV
+- eg: from Freeman_^WHO_SAID_WHAT &rarr; FreemanWSW
+
+e. Upload the 3 csvs to the the project level
 - Information &rarr; Attachments &rarr; Upload
 
-![step3d](imgs/step3d.jpg)
+![step3e](imgs/step3d.jpg)
+
+f. Manually change the subject labels to match bids format
+- eg: from WSW016 &rarr; 016
 
 ## 4. Rerun the BIDS precuration with the spreadsheet inputs specified
 
